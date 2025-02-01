@@ -1,1 +1,1 @@
-# cursodevsamurai primeiro código do curso com a descrição de Ola Mundo em Javascript
+# Códigos dos cursos do Dev Samurai
